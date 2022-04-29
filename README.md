@@ -56,7 +56,7 @@ Alternatively, you can follow the following steps to create database from scratc
 |Authors|Multi-Select|
 |Abstract|Text|
 |Published|Date|
-|Comment|Text|
+|Comment|URL|
 |Publisher|Select|
 
 </details>
