@@ -1,5 +1,7 @@
 # arxiv2notion+
 
+### NOTE: The enhancements are already merged to the original [arxiv2notion](https://github.com/denkiwakame/arxiv2notion) repo. Thanks @denkiwakame!
+
 [![build](https://github.com/denkiwakame/arxiv2notion/actions/workflows/build.yaml/badge.svg)](https://github.com/denkiwakame/arxiv2notion/actions/workflows/build.yaml)
 
 Easy-to-use arXiv clipper for [Notion](https://www.notion.so) based on [Notion API](https://developers.notion.com/) (original repo: https://github.com/denkiwakame/arxiv2notion MIT License)
